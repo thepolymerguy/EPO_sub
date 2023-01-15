@@ -81,7 +81,7 @@ def get_section(urls, classpath, savefile):
     return
 
 # XLSX files are saved as gp-search{}
-path = glob.glob('gp-search*')
+path = glob.glob('/path/to/gp-search*')
 
 allurls = []
 for i in path:
