@@ -1,0 +1,79 @@
+"""
+Author: Amran Mohammed
+Script to automate the generation of a list of CPC classes relevant to a particular technical field (e.g. Green Plastic)
+Works by:
+- Generating list of
+- Performing a two-stage filtration of CPC classes not related to
+"""
+
+import os
+import sys
+import csv
+import glob
+import pandas as pd
+import numpy as np
+import re
+from nltk.stem import PorterStemmer
+from nltk.stem import WordNetLemmatizer
+
+Stemmer = PorterStemmer()
+
+KeywordListStage1 = ['recycle', 'upcycle', 'biodegrade', 'bio-',
+           'plastic', 'bioplastic',  'renew', 'degrade', 'reuse',
+          'dispose', 'pollute', 'biopolymer', 'bioresorb', 'polymer', 'glass',
+            'emission', 'thermoplastic', 'energy', 'sustain', 'toxic', 'nontoxic',
+                   'wood', 'collagen', 'alginate', 'cellulose', 'material', 'soluble']
+
+# A list comprehension to generate the list of word stems for the CPC search
+WordStemList_Stage1 = [Stemmer.stem(Word) for Word in KeywordListStage1]
+print(WordStemList_Stage1)
+
+# Change 'working_dir' to directory where the CPC Title Lists are stored
+working_dir = 'working/CPCTitleList202208/'
+rn = []
+for i in working_dir:
+    rn.append(i.split('.')[0].split('_')[0])
+
+############## Stage1 ##############
+Stage = 'Stage1'
+
+def findCPCcode(lemlist, fn, Stage, csv_name):
+    csv_name = csv_name.split('-')
+    Section = csv_name[2][0]
+    o = open(f'F:/Startup_Datasets/EPOCodeFestSubmission/GreenPlasticsClasses/{Stage}/ReducedList{Section}_{Stage}.txt', 'w')
+    with open(fn, 'r') as f:
+        ct = 0
+        for line in f:
+            dis1 = line
+            dis = line.split('\t')
+            #spliting line and getting rid of any trailing characters
+            line = re.split('[; |, \t { } ) ( ]', line.strip())
+            line = [i.lower() for i in line]
+            line = [i for i in line if i] #false if empty string
+
+            for i in line:
+                for h in lemlist:
+                    l = str()
+                    if i[:len(h)] == h:
+                        #print(i, line[0],'\n', dis[2])
+                        o.write(dis1)
+                        ct +=1
+
+for csv in os.listdir(working_dir):
+    csv_name = csv
+    csv = f'{working_dir}{csv}'
+    findCPCcode(WordStemList_Stage1, csv, Stage, csv_name)
+
+############## Stage2 ###############################
+Stage = 'Stage2'
+
+KeywordList_Stage2 = ['recycle', 'upcycle', 'biodegrade',
+           'bioplastic',  'renewable', 'degrade', 'reuse', 'bio'
+          'biopolymer', 'bioresorb', 'toxic', 'nontoxic', 'soluble']
+
+WordStemList_Stage2 = [Stemmer.stem(Word) for Word in KeywordList_Stage2]
+
+for csv in os.listdir(working_dir):
+    csv_name = csv
+    csv = f'{working_dir}{csv}'
+    findCPCcode(WordStemList_Stage2, csv, Stage, csv_name)
