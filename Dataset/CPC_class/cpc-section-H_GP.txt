@@ -1,0 +1,12 @@
+H01M8/04097	4	{with recycling of the reactants (H01M8/04119, H01M8/04104 take precedence)}
+H02J2310/52	2	The controlling of the operation of the load not being the total disconnection of the load, i.e. entering a degraded mode or in current limitation
+H01M6/52	1	Reclaiming serviceable parts of waste cells or batteries {, e.g. recycling}
+H05K2203/178	2	Demolishing, e.g. recycling, reverse engineering, destroying for security purposes; Using biodegradable materials
+H04M1/0287	3	{being disposable or recyclable}
+H04L61/2553	5	Binding renewal aspects, e.g. using keep-alive messages
+H01L21/7813	5	{leaving a reusable substrate, e.g. epitaxial lift off}
+H01H2009/0077	1	{using recyclable materials, e.g. for easier recycling or minimising the packing material}
+H02J2300/20	1	The dispersed energy generation being of renewable origin
+H02J2300/22	2	The renewable source being solar energy
+H02J3/382	3	{the generators exploiting renewable energy}
+H02J2300/28	2	The renewable source being wind energy (wind motors F03D)

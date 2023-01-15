@@ -1,0 +1,51 @@
+Y02W30/62	2	Plastics recycling; Rubber recycling
+Y02P20/143	2	the feedstock being recycled material, e.g. plastics
+Y10S68/902	1	Devices for storage and reuse of soap suds
+Y04S10/123	2	the energy generation units being or involving renewable energy sources
+Y02P60/12	1	using renewable energies, e.g. solar water pumping
+Y10S525/938	1	Polymer degradation
+Y02A40/76	2	using renewable energy
+Y02W30/50	1	Reuse, recycling or recovery technologies
+Y10S156/937	3	Means for delaminating specified electronic component in preparation for recycling
+Y10S156/936	3	Means for delaminating container component in preparation for recycling, e.g. glass bottle, plastic bottle
+Y10S260/43	1	Promoting degradability of polymers
+Y10S585/8995	1	Catalyst and recycle considerations
+Y10S156/935	2	Delaminating means in preparation for post consumer recycling
+Y10S526/914	1	Polymer degradation
+Y02P40/45	2	using fuels from renewable energy sources
+Y10S229/942	1	Nonreusable box having means to facilitate collapsing or disassembling for disposal or for recycling of the box material, e.g. "knockdown" type
+Y10S156/922	3	Specified electronic component delaminating in preparation for recycling
+Y10S264/911	1	Recycling consumer used articles or products
+Y10S521/916	1	Cellular product having enhanced degradability
+Y02W30/80	2	Packaging reuse or recycling, e.g. of multilayer packaging (bio-packaging Y02W90/10)
+Y10S220/30	1	Biodegradable
+Y02P20/582	2	Recycling of unreacted starting or intermediate materials
+Y10S264/92	2	by extruding material recycled from consumer used article or product
+Y02A40/966	3	Powered by renewable energy sources
+Y02P10/32	1	using renewable energy sources
+Y10S156/919	2	Delaminating in preparation for post processing recycling step
+Y02A40/58	3	using renewable energies
+Y10S156/938	4	Means for delaminating record media for recycling, e.g. CD, DVD, HD, flash memory
+Y02W30/82	2	Recycling of waste of electrical or electronic equipment [WEEE]
+Y02A30/244	2	using natural or recycled building materials, e.g. straw, wool, clay or used tires
+Y10S428/9033	1	Recycled materials
+Y10S156/921	3	Delaminating container component in preparation for recycling, e.g. glass bottle, plastic bottle
+Y02P40/125	2	Fuels from renewable energy sources, e.g. waste or biomass
+Y02P10/20	1	Recycling
+Y10S585/901	2	with recycle, rehabilitation, or preservation of solvent, diluent, or mass action agent
+Y10S264/921	2	by injection molding material recycled from consumer used article or product
+Y02B10/70	1	Hybrid systems, e.g. uninterruptible or back-up power supplies integrating renewable energies
+Y02E10/00	0	Energy generation through renewable energy sources
+Y02W30/78	2	Recycling of wood or furniture waste
+Y10S47/902	1	including a recycled component, e.g. tires
+Y02A20/138	2	using renewable energy
+Y10S585/903	2	with hydrocarbon recycle to control synthesis reaction, e.g. by cooling, quenching
+Y02W90/10	1	Bio-packaging, e.g. packing containers made from renewable resources or bio-plastics
+Y02P20/133	2	Renewable energy sources, e.g. sunlight
+Y10S902/12	3	Serving as both depository and source for, e.g. note dispencing recycling
+Y02B10/00	0	Integration of renewable energy sources in buildings
+Y02W30/84	2	Recycling of batteries or fuel cells
+Y02P60/52	2	use of renewable energies
+Y10S156/92	3	Textile delaminating in preparation for recycling, e.g. carpet
+Y02P80/20	1	using renewable energy
+Y02A40/924	2	using renewable energies

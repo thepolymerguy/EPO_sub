@@ -1,0 +1,127 @@
+A61F2013/530116	5	{with recycled material, e.g. paper} (ALTERNATIVE)
+A61F2013/51433	6	{being biodegradable}
+A61F13/505	2	with separable parts, e.g. combination of disposable and reusable parts, (A61F13/20, {A61F13/49003} take precedence; supporting or fastening means A61F13/56; {belts or the like A61F13/64})
+A61F2002/30064	7	{Coating or prosthesis-covering structure made of biodegradable material}
+A43B1/0063	1	{made at least partially of material that can be recycled}
+A61J2200/60	1	biodegradable
+A61F2013/51035	5	{being biodegradable, e.g. Rayon, polylactate, dioxanone}
+A24D3/068	3	{Biodegradable or disintegrable}
+A61F2013/530795	4	{being biodegradable}
+A61L2300/604	3	Biodegradation
+A61G2203/90	2	biodegradable
+A61F13/15268	3	{reusable (with separable parts A61F13/505)}
+A61M2005/14268	4	{with a reusable and a disposable component}
+A63B2209/18	1	biodegradable
+A61F13/49003	4	{Reusable, washable fabric diapers}
+A61F2013/53481	4	{being biodegradable}
+A46D1/0215	2	{Bristles characterised by the material being biodegradable}
+A61F2002/30062	6	{(bio)absorbable, biodegradable, bioerodable, (bio)resorbable, resorptive}
+A61L15/32	3	Proteins, polypeptides; Degradation products or derivatives thereof, e.g. albumin, collagen, fibrin, gelatin {(A61L15/225 takes precedence)} (ALTERNATIVE)
+A61K8/65	4	Collagen; Gelatin; Keratin; Derivatives or degradation products thereof (ALTERNATIVE)
+A61F2013/530321	6	{in biopolymer, e.g. PHA} (SPECIFICALLY A BIOPLASTIC)
+A61F2013/530313	5	{being biodegradable} (SPECIFCALLY A BIOPLASTIC)
+A61F13/15252	3	{compostable or biodegradable}
+A61F2013/00221	3	{biodegradable, non-irritating}
+B01D2239/0266	2	comprising biodegradable or bio-soluble polymers (SPECIFICALLY A BIOPLASTIC)
+B01D2239/0283	2	comprising filter materials made from waste or recycled materials
+B29C64/357	2	Recycling
+B32B2305/70	1	Scrap or recycled material
+B32B2307/7163	3	Biodegradable
+B65D2565/385	3	especially suited for or with means facilitating recycling
+B65F2250/105	1	Biodegradable
+B29C66/73791	5	{biodegradable}
+B03B9/00; recovery of plastics B29B17/00}) (PLASTIC RECYCLING)
+B29K2995/006	3	Bio-degradable, e.g. bioabsorbable, bioresorbable or bioerodible
+B65D85/8043	3	{Packages adapted to allow liquid to pass through the contents (B65D85/808 takes precedence; filters or reusable cartridges for coffee or tea makers, not used as packages A47J31/06)}
+B32B2037/148	2	{whereby layers material is selected in order to facilitate recycling of the laminate}
+B65D2565/384	3	made of recycled material (B65D2565/383 takes precedence)
+B29C44/3402	2	{Details of processes or apparatus for reducing environmental damage or for working-up compositions comprising inert blowing agents or biodegradable components}
+B29C48/275	2	Recovery or reuse of energy or materials
+B01D2239/0275	2	comprising biologically produced plastics, e.g. bioplastics (SPECIFCALLY BIOPLASTICS)
+B32B2272/00	0	Resin or rubber layer comprising scrap, waste or recycling material (RECYCLED POLYMERIC MATERIAL)
+B29K2995/0056	2	Biocompatible, e.g. biopolymers or bioelastomers (SPECIFICALLY BIOPLASTICS)
+B29B2017/0089	1	{Recycling systems, wherein the flow of products between producers, sellers and consumers includes at least a recycling step, e.g. the products being fed back to the sellers or to the producers for recycling purposes} (PLASTIC RECYCLING)
+C08L2555/62	3	from natural renewable resources
+C08J2300/16	1	Biodegradable polymers
+C08J2303/00	0	Characterised by the use of starch, amylose or amylopectin or of their derivatives or degradation products
+C21B2200/00	0	Recycling of non-gaseous waste material
+C09K8/905	6	{Biopolymers}
+C08L3/12	1	Amylose; Amylopectin; Degradation products thereof
+C08G2230/00	0	Compositions for preparing biodegradable polymers
+C08J2403/02	1	Starch; Degradation products thereof, e.g. dextrin
+C09D103/12	1	Amylose; Amylopectin; Degradation products thereof
+C08L101/16	1	the macromolecular compounds being biodegradable
+C08L2555/82	3	from natural renewable resources, e.g. starch, cellulose, saw dust, straw, hair or shells
+C08J2300/30	1	Polymeric waste or recycled polymer
+C08L2207/24	2	recycling of old tyres and caoutchouc and addition of caoutchouc particles
+C08L2207/22	2	Recycled asphalt
+C08L2207/20	1	Recycled plastic
+C08J11/00	0	Recovery or working-up of waste materials (recovery of plastics B29B17/00; polymerisation processes involving purification or recycling of waste polymers or their depolymerisation products C08B, C08C, C08F, C08G, C08H)
+C08K5/0033	2	{Additives activating the degradation of the macromolecular compound}
+C10M2209/12	1	Polysaccharides, e.g. cellulose, biopolymers
+C08L2555/34	2	Recycled or waste materials, e.g. reclaimed bitumen, asphalt, roads or pathways, recycled roof coverings or shingles, recycled aggregate, recycled tires, crumb rubber, glass or cullet, fly or fuel ash, or slag
+C08L2201/06	1	Biodegradable
+C08L2555/30	1	Environmental or health characteristics, e.g. energy consumption, recycling or safety issues
+C02F3/2893	3	{with biogas recycling}
+C08K2201/018	1	Additives for biodegradable polymeric composition
+C12M23/30	1	{biodegradable}
+C10G2300/4081	2	Recycling aspects
+C10N2020/081	2	{Biodegradable compounds}
+C12N2533/40	2	Polyhydroxyacids, e.g. polymers of glycolic or lactic acid (PGA, PLA, PLGA); Bioresorbable polymers
+C09D103/00	0	Coating compositions based on starch, amylose or amylopectin or on their derivatives or degradation products
+C08J2400/16	1	Biodegradable polymers
+C01B2201/50	1	Part of the product being recycled
+D06N2209/1614	3	Biodegradable
+D10B2401/12	1	biodegradable
+D06N2209/1607	2	Degradability
+D06N2205/18	1	Scraps or recycled materials (D06N2205/106 takes precedence)
+D06N2205/106	2	Scrap or recycled particles
+E02D2300/0012	3	recycled
+E02D2300/006	3	being recycled
+E04B2001/746	4	{Recycled materials, e.g. made of used tires, bumpers or newspapers}
+F24S2080/018	2	{Recycled materials}
+G01N2033/243	2	{for determining biological parameters concerning composting, biodegradability or bioavailability}
+G03G21/181	4	{Manufacturing or assembling, recycling, reuse, transportation, packaging or storage}
+G06Q10/30	1	{Product recycling or disposal administration}
+G11B2007/25308	6	{Biodegradable polymers, cellulose included}
+G05B2219/40034	3	Disassembly, for recycling
+G11B7/2539	6	biodegradable polymers, e.g. cellulose
+G05B2219/14063	3	Diagnostic of degrading performance
+G02F2203/68	1	Green display, e.g. recycling, reduction of harmful substances
+G09F2003/0223	2	{recyclable}
+H01M6/52	1	Reclaiming serviceable parts of waste cells or batteries {, e.g. recycling}
+H05K2203/178	2	Demolishing, e.g. recycling, reverse engineering, destroying for security purposes; Using biodegradable materials
+H04M1/0287	3	{being disposable or recyclable}
+H01H2009/0077	1	{using recyclable materials, e.g. for easier recycling or minimising the packing material}
+H02J2300/22	2	The renewable source being solar energy
+H02J2300/28	2	The renewable source being wind energy (wind motors F03D)
+Y02W30/62	2	Plastics recycling; Rubber recycling
+Y02P20/143	2	the feedstock being recycled material, e.g. plastics
+Y04S10/123	2	the energy generation units being or involving renewable energy sources
+Y02P60/12	1	using renewable energies, e.g. solar water pumping
+Y10S525/938	1	Polymer degradation
+Y02A40/76	2	using renewable energy
+Y02W30/50	1	Reuse, recycling or recovery technologies
+Y10S156/937	3	Means for delaminating specified electronic component in preparation for recycling
+Y10S156/936	3	Means for delaminating container component in preparation for recycling, e.g. glass bottle, plastic bottle
+Y10S260/43	1	Promoting degradability of polymers
+Y10S156/935	2	Delaminating means in preparation for post consumer recycling
+Y10S526/914	1	Polymer degradation
+Y02P40/45	2	using fuels from renewable energy sources
+Y10S156/922	3	Specified electronic component delaminating in preparation for recycling
+Y10S264/911	1	Recycling consumer used articles or products
+Y10S521/916	1	Cellular product having enhanced degradability
+Y02W30/80	2	Packaging reuse or recycling, e.g. of multilayer packaging (bio-packaging Y02W90/10)
+Y10S220/30	1	Biodegradable
+Y02P20/582	2	Recycling of unreacted starting or intermediate materials
+Y10S264/92	2	by extruding material recycled from consumer used article or product
+Y10S156/919 2   Delaminating in preparation for post processing recycling step
+Y10S156/938 4   Means for delaminating record media for recycling, e.g. CD, DVD, HD, flash memory
+Y02W30/82   2   Recycling of waste of electrical or electronic equipment [WEEE]
+Y10S428/9033    1   Recycled materials
+Y10S156/921 3   Delaminating container component in preparation for recycling, e.g. glass bottle, plastic bottle
+Y10S264/921 2   by injection molding material recycled from consumer used article or product
+Y10S47/902  1   including a recycled component, e.g. tires
+Y10S585/903 2   with hydrocarbon recycle to control synthesis reaction, e.g. by cooling, quenching
+Y02W90/10   1   Bio-packaging, e.g. packing containers made from renewable resources or bio-plastics
+Y02P20/133  2   Renewable energy sources, e.g. sunlight

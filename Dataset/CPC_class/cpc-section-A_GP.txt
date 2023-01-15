@@ -1,0 +1,40 @@
+A61F13/49006	5	{the reusable article being in the form of pants or briefs, e.g. slip or panty for light incontinence}
+A61F2013/530116	5	{with recycled material, e.g. paper}
+A61L28/0023	2	{Polypeptides; Proteins; Degradation products thereof}
+A61F2013/51433	6	{being biodegradable}
+A23L29/35	2	{Degradation products of starch, e.g. hydrolysates, dextrins; Enzymatically modified starches}
+A61L31/043	2	{Proteins; Polypeptides; Degradation products thereof}
+A61F13/505	2	with separable parts, e.g. combination of disposable and reusable parts, (A61F13/20, {A61F13/49003} take precedence; supporting or fastening means A61F13/56; {belts or the like A61F13/64})
+A62D3/115	3	Electrolytic degradation or conversion
+A61B5/15188	4	{Constructional features of reusable driving devices}
+A61F2002/30064	7	{Coating or prosthesis-covering structure made of biodegradable material}
+A43B1/0063	1	{made at least partially of material that can be recycled}
+A61J2200/60	1	biodegradable
+A61K31/718	4	Starch or degraded starch, e.g. amylose, amylopectin
+A61F2013/51035	5	{being biodegradable, e.g. Rayon, polylactate, dioxanone}
+A24D3/068	3	{Biodegradable or disintegrable}
+A61L26/0028	2	{Polypeptides; Proteins; Degradation products thereof}
+A61F2013/530795	4	{being biodegradable}
+A61L2300/604	3	Biodegradation
+A61G2203/90	2	biodegradable
+A61F13/15268	3	{reusable (with separable parts A61F13/505)}
+A61M2005/14268	4	{with a reusable and a disposable component}
+A61F2310/00365	2	Proteins; Polypeptides; Degradation products thereof
+A61K8/64	3	Proteins; Peptides; Derivatives or degradation products thereof
+A63B2209/18	1	biodegradable
+A61F13/49003	4	{Reusable, washable fabric diapers}
+A61F2013/53481	4	{being biodegradable}
+A46D1/0215	2	{Bristles characterised by the material being biodegradable}
+A61L33/12	2	Polypeptides, proteins or derivatives thereof {, e.g. degradation products thereof}
+A47J31/0689	3	{Reusable cartridges suitable to be opened for being filled with brewing material and to be closed to envelope the brewing material therein (disposable cartridges to be filled by the user with brewing material A47J31/08; disposable cartridges already filled with brewing material B65D85/8043)}
+A61F2002/30062	6	{(bio)absorbable, biodegradable, bioerodable, (bio)resorbable, resorptive}
+A61L15/32	3	Proteins, polypeptides; Degradation products or derivatives thereof, e.g. albumin, collagen, fibrin, gelatin {(A61L15/225 takes precedence)}
+A61K8/65	4	Collagen; Gelatin; Keratin; Derivatives or degradation products thereof
+A47L9/149	3	{Emptying means; Reusable bags}
+A61F2013/530321	6	{in biopolymer, e.g. PHA}
+A61M2025/0019	1	{Cleaning catheters or the like, e.g. for reuse of the device, for avoiding replacement}
+A61F2013/530313	5	{being biodegradable}
+A61K8/645	4	{Proteins of vegetable origin; Derivatives or degradation products thereof}
+A61F13/15252	3	{compostable or biodegradable}
+A61L29/044	2	{Proteins; Polypeptides; Degradation products thereof}
+A61F2013/00221	3	{biodegradable, non-irritating}

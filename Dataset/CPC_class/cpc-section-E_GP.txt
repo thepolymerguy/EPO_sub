@@ -1,0 +1,8 @@
+E02D2300/0012	3	recycled
+E04B2002/8682	3	{Mixed technique using permanent and reusable forms}
+E02D2300/006	3	being recycled
+E01C3/003	1	{characterised by material or composition used, e.g. waste or recycled material (E01C3/006, E01C3/04 and E01C3/06 take precedence)}
+E04B2001/746	4	{Recycled materials, e.g. made of used tires, bumpers or newspapers}
+E01C23/00	0	Auxiliary devices or arrangements for constructing, repairing, reconditioning, or taking-up road or like surfaces (apparatus for reconditioning of salvaged non-hydraulic compositions {for- in plant recycling of salvaged bituminous mixtures} E01C19/10)
+E04G9/086	2	{which are specially adapted to be degradable in time, e.g. by moisture or water}
+E01C19/1036	5	{for in-plant recycling or for reprocessing, e.g. adapted to receive and reprocess an addition of salvaged material, adapted to reheat and remix cooled-down batches}

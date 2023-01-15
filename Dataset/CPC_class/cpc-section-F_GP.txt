@@ -1,0 +1,8 @@
+F23G2201/603	2	recyclable material
+F26B3/205	3	{the materials to be dried covering or being mixed with heated inert particles which may be recycled}
+F26B11/0404	3	{with internal subdivision of the drum, e.g. for subdividing or recycling the material to be dried (spiral-type or other inserts for discharging purposes F26B11/026)}
+F16F9/006	1	{characterised by the nature of the damping medium, e.g. biodegradable (variable viscosity damping adjustment F16F9/53)}
+F24S2080/018	2	{Recycled materials}
+F25J1/021	5	{using a deep flash recycle loop}
+F25J2260/30	1	Integration in an installation using renewable energy
+F26B21/086	3	{by condensing the moisture in the drying medium, which may be recycled, e.g. using a heat pump cycle}

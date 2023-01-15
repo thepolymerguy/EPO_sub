@@ -1,0 +1,70 @@
+B01D2239/0266	2	comprising biodegradable or bio-soluble polymers
+B01D2239/0283	2	comprising filter materials made from waste or recycled materials
+B01J2208/00265	4	Part of all of the reactants being heated or cooled outside the reactor while recycling
+B29K2105/0005	1	{containing compounding ingredients (releasing, lubricating or separating agents B29C33/56, fibers B29K2105/08, B29K2105/12; fillers B29K2105/16, recycled material B29K2105/26)}
+B29C64/357	2	Recycling
+B32B2305/70	1	Scrap or recycled material
+B32B2307/7163	3	Biodegradable
+B29C2045/165	4	{the parison core layer comprising recycled or scrap material}
+B65D2565/385	3	especially suited for or with means facilitating recycling
+B65H75/505	2	{Working on cores, reels or the like to permit their reuse, e.g. correcting distortion, replacing parts of the core or reel}
+B23B2251/16	1	New cutting edge by fracture, wear, or recycling
+B01D2259/40056	5	Gases other than recycled product or process gas
+B65F2250/105	1	Biodegradable
+B29C66/73791	5	{biodegradable}
+B62D67/00	0	Systematic disassembly of vehicles for recovery of salvageable components, e.g. for recycling (for disposal of vehicles by destroying or transformation B09B3/00, B09B5/00 {; general arrangement of separating plants B03B9/00; recovery of plastics B29B17/00})
+B05C11/026	3	{with an elongated body renewable by feeding it across the surface}
+B60Q2900/20	1	Arrangements for easy recycling, e.g. for easy dismantling or use of special materials
+B29B7/66	3	Recycling the material {(B29B7/566 takes precedence)}
+B65F2210/112	1	Coding means to aid in recycling
+B29K2105/26	1	Scrap {or recycled material}
+B29K2995/006	3	Bio-degradable, e.g. bioabsorbable, bioresorbable or bioerodible
+B60R2021/165	3	{reusable, e.g. in case of multiple collisions}
+B65F2250/116	1	Recycled material
+B27N3/007	1	{and at least partly composed of recycled material}
+B29C66/7379	4	{degradable}
+B21B43/08	1	Cooling beds comprising revolving drums or recycling chains {or discs}
+B41N3/003	1	{of intaglio formes, e.g. application of a wear-resistant coating, such as chrome, on the already-engraved plate or cylinder; Preparing for reuse, e.g. removing of the Ballard shell; Correction of the engraving}
+B65D85/8043	3	{Packages adapted to allow liquid to pass through the contents (B65D85/808 takes precedence; filters or reusable cartridges for coffee or tea makers, not used as packages A47J31/06)}
+B32B2037/148	2	{whereby layers material is selected in order to facilitate recycling of the laminate}
+B65D2565/384	3	made of recycled material (B65D2565/383 takes precedence)
+B29K2995/0059	2	Degradable
+B29B2017/0094	1	{Mobile recycling devices, e.g. devices installed in truck trailers}
+B01D2311/25	1	Recirculation, recycling or bypass, e.g. recirculation of concentrate into the feed
+B60H2003/0057	2	{Servicing means therefor, e.g. for renewal of substances}
+B60R2021/01177	4	{Misdeployment, e.g. during assembly, disassembly, accident salvage or recycling}
+B22F10/70	1	Recycling
+B65H1/26	1	with auxiliary supports to facilitate introduction or renewal of the pile
+B42P2241/30	2	Easily demountable for recycling
+B29C44/3402	2	{Details of processes or apparatus for reducing environmental damage or for working-up compositions comprising inert blowing agents or biodegradable components}
+B60H2001/00607	2	{Recycling}
+B28B11/049	2	{Recycling of the coating material}
+B60R2022/469	3	{reusable}
+B65H2601/61	2	Refurbishing; Renewing the handling machine; Upgrading modifying functions of the handling machine
+B65D2565/383	4	made of recycled paper
+B01J31/0297	5	{the substrate being a soluble polymer, dendrimer or oligomer of characteristic microstructure of groups B01J31/061 - B01J31/068}
+B29C48/275	2	Recovery or reuse of energy or materials
+B29C66/91921	5	{in explicit relation to another temperature, e.g. to the softening temperature or softening point, to the thermal degradation temperature or to the ambient temperature}
+B29C49/42865	3	{Recycling or reusing of electric energy}
+B29C49/4286	3	{Recycling or reusing of heat energy}
+B01J2219/00105	4	part or all of the reactants being heated or cooled outside the reactor while recycling
+B29D11/00519	3	{Reusable moulds}
+B29K2105/0017	2	{Agents activating degradation}
+B01D15/1814	4	{recycling of the fraction to be distributed}
+B01D2313/66	1	Biodegradability of parts of the module
+B01D2239/0275	2	comprising biologically produced plastics, e.g. bioplastics
+B01D53/96	2	Regeneration, reactivation or recycling of reactants
+B32B2272/00	0	Resin or rubber layer comprising scrap, waste or recycling material
+B65D2563/107	3	having a release mechanism, e.g. reusable bundling straps
+B42P2241/28	2	Materials, e.g. biodegradable
+B03D2203/008	1	Water purification, e.g. for process water recycling (waste water treatment C02F1/24)
+B65H75/005	1	{Working on damaged packages, e.g. reshaping collapsed cores (working on cores, reels or the like to permit their reuse B65H75/505)}
+B01D2259/40054	6	treated before its reuse
+B60W60/0018	3	{by employing degraded modes, e.g. reducing speed, in response to suboptimal conditions}
+B29K2995/0058	2	Inert to chemical degradation
+B60S2001/3846	5	{Devices for renewing or renovating blade wiping edges, e.g. cutters}
+B29K2995/0056	2	Biocompatible, e.g. biopolymers or bioelastomers
+B65D2217/04	1	Whereby the separation between the different product compartments can be restored, e.g. for reuse
+B29B2017/0089	1	{Recycling systems, wherein the flow of products between producers, sellers and consumers includes at least a recycling step, e.g. the products being fed back to the sellers or to the producers for recycling purposes}
+B29C2045/1833	4	{recycling sprues or runners}
+B32B2307/716	2	Degradable

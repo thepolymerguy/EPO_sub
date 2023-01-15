@@ -1,0 +1,31 @@
+G05B2219/31414	3	Calculate amount of production energy, waste and toxic release
+G03G15/283	3	{using a reusable recording medium in form of a band}
+G05B2219/31431	3	Identify and classify excess raw material; reuse
+G01N2033/243	2	{for determining biological parameters concerning composting, biodegradability or bioavailability}
+G03G21/181	4	{Manufacturing or assembling, recycling, reuse, transportation, packaging or storage}
+G06Q10/30	1	{Product recycling or disposal administration}
+G05B2219/14106	3	Reconfiguration of components or graceful degradation, degrade
+G03G15/238	4	{using more than one reusable electrographic recording member, e.g. single pass duplex copiers}
+G03G15/286	3	{using a reusable recording medium in form of a plate or a sheet}
+G11C16/349	4	{Arrangements for evaluating degradation, retention or wearout, e.g. by counting erase cycles}
+G11B2007/25308	6	{Biodegradable polymers, cellulose included}
+G03G15/266	3	{using a reusable recording medium in form of a plate or a sheet}
+G05B2219/40034	3	Disassembly, for recycling
+G06F2212/7204	2	Capacity control, e.g. partitioning, end-of-life degradation
+G05B2219/36218	3	Reuse stored data as programming data after confirmation
+G11B7/2539	6	biodegradable polymers, e.g. cellulose
+G05B2219/14063	3	Diagnostic of degrading performance
+G02F2203/68	1	Green display, e.g. recycling, reduction of harmful substances
+G05B2219/23293	3	Automated assembly of machine control software, reusable software components
+G03G21/10	1	Collecting or recycling waste developer
+G06F9/3808	5	{for instruction reuse, e.g. trace cache, branch target cache}
+G03G15/0894	3	{Reconditioning of the developer unit, i.e. reusing or recycling parts of the unit, e.g. resealing of the unit before refilling with toner}
+G03G21/06	1	Eliminating residual charges from a reusable imaging member
+G21J3/00	0	Peaceful applications of nuclear explosive devices {(obtaining oil, gas, water, soluble or meltable material from deep wells by means of nuclear energy E21B43/2635, E21B43/2403)}
+G06F8/48	3	{Incremental compilation (software reuse G06F8/36)}
+G03G15/263	3	{using a reusable recording medium in form of a band}
+G06F2206/1506	2	Degraded mode, e.g. in view of consumables depleted, thresholds reached
+G06F2119/20	1	Design reuse, reusability analysis or reusability optimisation
+G01N33/6824	6	{involving N-terminal degradation, e.g. Edman degradation}
+G09F2003/0223	2	{recyclable}
+G01N2496/25	1	containing added polymers to stabilise biological material against degradation or mantain viscosity or density, e.g. gelatin, polyacrylamides, polyvinyl alcohol (casein G01N2333/4731, albumins G01N2333/76, polysaccharides G01N2400/10)

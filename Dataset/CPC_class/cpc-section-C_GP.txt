@@ -1,0 +1,85 @@
+C08L2555/62	3	from natural renewable resources
+C12P33/005	1	{Degradation of the lateral chains at position 17}
+C08J2300/16	1	Biodegradable polymers
+C08J2201/05	2	Elimination by evaporation or heat degradation of a liquid phase
+C08L2207/26	2	recycling of glass in bitumen
+C08J2303/00	0	Characterised by the use of starch, amylose or amylopectin or of their derivatives or degradation products
+C09J103/02	1	Starch; Degradation products thereof, e.g. dextrin
+C04B18/243	5	{Waste from paper processing or recycling paper, e.g. de-inking sludge (burned paper processing waste C04B18/10)}
+C08J2300/14	1	Water soluble or water swellable polymers, e.g. aqueous gels
+C21B2200/00	0	Recycling of non-gaseous waste material
+C09K8/905	6	{Biopolymers}
+C04B18/20	3	from macromolecular compounds {(recycled expanded polystyrene C04B16/08)}
+C08L3/12	1	Amylose; Amylopectin; Degradation products thereof
+C08K3/012	2	Additives activating the degradation of the macromolecular compounds
+C04B2111/2038	2	{Resistance against physical degradation}
+C08G2230/00	0	Compositions for preparing biodegradable polymers
+C21C2200/00	0	Recycling of waste material
+C06B45/105	4	{The resin being a polymer bearing energetic groups or containing a soluble organic explosive}
+C08J2403/02	1	Starch; Degradation products thereof, e.g. dextrin
+C08J2403/00	0	Characterised by the use of starch, amylose or amylopectin or of their derivatives or degradation products
+C10J2300/1631	4	Ash recycling
+C09D103/12	1	Amylose; Amylopectin; Degradation products thereof
+C12P33/12	1	Acting on D ring {(carbons 13 and 14 belong to the C ring; degradation of lateral chains C12P33/005)}
+C10J2300/1284	2	by renewable energy, e.g. solar energy, photovoltaic cells, wind
+C10L2200/0469	3	Renewables or materials of biological origin
+C08F2500/35	1	Crystallinity, e.g. soluble or insoluble content as determined by the extraction of the polymer with a solvent
+C08L101/16	1	the macromolecular compounds being biodegradable
+C04B33/1324	4	{Recycled material, e.g. tile dust, stone waste, spent refractory material}
+C08L2555/82	3	from natural renewable resources, e.g. starch, cellulose, saw dust, straw, hair or shells
+C01B32/366	4	by physical processes, e.g. by irradiation, by using electric current passing through carbonaceous feedstock or by using recyclable inert heating bodies
+C25B15/087	2	{Recycling of electrolyte to electrochemical cell}
+C08J2300/30	1	Polymeric waste or recycled polymer
+C10J2300/1807	2	Recycle loops, e.g. gas, solids, heating medium, water
+C01B2203/148	2	involving a recycle stream to the feed of the process for making hydrogen or synthesis gas
+C09D7/48	2	Stabilisers against degradation by oxygen, light or heat
+C08J2400/30	1	Polymeric waste or recycled polymer
+C04B18/167	3	{Recycled material, i.e. waste material reused in the production of the same material}
+C08L2207/24	2	recycling of old tyres and caoutchouc and addition of caoutchouc particles
+C08L3/02	1	Starch; Degradation products thereof, e.g. dextrin
+C04B2103/0073	2	{Self-degrading materials, e.g. materials undergoing a hydrolytic degradation in the course of time}
+C08B37/0078	4	{Degradation products}
+C08L2207/22	2	Recycled asphalt
+C08L2207/20	1	Recycled plastic
+C08L2023/42	3	{Depolymerisation, vis-breaking or degradation}
+C08J11/00	0	Recovery or working-up of waste materials (recovery of plastics B29B17/00; polymerisation processes involving purification or recycling of waste polymers or their depolymerisation products C08B, C08C, C08F, C08G, C08H)
+C08K5/0033	2	{Additives activating the degradation of the macromolecular compound}
+C08J2303/02	1	Starch; Degradation products thereof, e.g. dextrin
+C10M2209/12	1	Polysaccharides, e.g. cellulose, biopolymers
+C08L2555/34	2	Recycled or waste materials, e.g. reclaimed bitumen, asphalt, roads or pathways, recycled roof coverings or shingles, recycled aggregate, recycled tires, crumb rubber, glass or cullet, fly or fuel ash, or slag
+C08L2201/06	1	Biodegradable
+C01B2203/0827	4	at least part of the fuel being a recycle stream
+C13B30/12	2	Recycling mother liquor or wash liquors
+C08J2400/14	1	Water soluble or water swellable polymers, e.g. aqueous gels
+C03C4/0014	2	{Biodegradable glass}
+C04B2103/0072	2	{Biodegradable materials}
+C02F2201/46185	5	Recycling the cathodic or anodic feed
+C03C25/70	1	Cleaning, e.g. for reuse (C03C25/62 -C03C25/66 take precedence)
+C04B2111/2092	2	{Resistance against biological degradation}
+C08L2555/30	1	Environmental or health characteristics, e.g. energy consumption, recycling or safety issues
+C03C2213/02	1	Biodegradable glass fibres
+C12N2500/50	1	Soluble polymers, e.g. polyethyleneglycol [PEG]
+C09J103/00	0	Adhesives based on starch, amylose or amylopectin or on their derivatives or degradation products
+C07K2319/95	1	containing a motif/fusion for degradation (ubiquitin fusions, PEST sequence)
+C03B2205/57	1	Recovering, recycling or purifying the coolant, e.g. helium
+C08J2403/12	1	Amylose; Amylopectin; Degradation products thereof
+C02F3/2893	3	{with biogas recycling}
+C03B2205/61	2	Recovering, recycling or purifying the inert gas, e.g. helium
+C08J2303/12	1	Amylose; Amylopectin; Degradation products thereof
+C08K2201/018	1	Additives for biodegradable polymeric composition
+C08L3/00	0	Compositions of starch, amylose or amylopectin or of their derivatives or degradation products
+C09J103/12	1	Amylose; Amylopectin; Degradation products thereof
+C12M23/30	1	{biodegradable}
+C12Q2525/125	2	incorporating agents resulting in resistance to degradation
+C21B2100/20	1	Increasing the gas reduction potential of recycled exhaust gases
+C10L2290/10	1	Recycling of a stream within the process or apparatus to reuse elsewhere therein
+C01F7/0606	4	Making-up the alkali hydroxide solution from recycled spent liquor
+C10G2300/4081	2	Recycling aspects
+C10N2020/081	2	{Biodegradable compounds}
+C12N2533/40	2	Polyhydroxyacids, e.g. polymers of glycolic or lactic acid (PGA, PLA, PLGA); Bioresorbable polymers
+C08B30/12	1	Degraded, {destructured} or non-chemically modified starch {, e.g. mechanically, enzymatically or by irradiation; Bleaching of starch (preparation of chemical derivatives of starch C08B31/00)}
+C09D103/00	0	Coating compositions based on starch, amylose or amylopectin or on their derivatives or degradation products
+C09D103/02	1	Starch; Degradation products thereof, e.g. dextrin
+C08J2400/16	1	Biodegradable polymers
+C01B2201/50	1	Part of the product being recycled
+C08B30/00	0	Preparation of starch, degraded or non-chemically modified starch, amylose, or amylopectin

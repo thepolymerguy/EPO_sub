@@ -1,0 +1,5 @@
+D06N2209/1614	3	Biodegradable
+D10B2401/12	1	biodegradable
+D06N2209/1607	2	Degradability
+D06N2205/18	1	Scraps or recycled materials (D06N2205/106 takes precedence)
+D06N2205/106	2	Scrap or recycled particles
