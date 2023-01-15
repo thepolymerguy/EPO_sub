@@ -256,6 +256,6 @@ plt.ylim(0, 1)
 plt.tight_layout()
 #plt.savefig('/content/drive/MyDrive/binary_model/model_comp_eval.png', dpi=300, transparent=True)
 
-model_1.save("densemodel")
-model_2.save("transferlearning_model.h5")
+#model_1.save("densemodel")
+#model_2.save("transferlearning_model.h5")
 # need to be loaded with custom_objects={"KerasLayer": hub.KerasLayer}
