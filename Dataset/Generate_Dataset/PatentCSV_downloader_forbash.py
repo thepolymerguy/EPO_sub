@@ -45,7 +45,7 @@ def download_csv(fn):
         # Sleep to stop error from google patents (too many requests)
         # Use runcmd to move file from downloads to working directory
 
-download_csv('/Dataset/CPC_class/MainClassDescriptions_cleaned.csv')
-download_csv('/Dataset/CPC_class/GreenClassDescriptions_cleaned.csv')
+download_csv('/path/to/MainClassDescriptions_cleaned.csv')
+download_csv('/pth/to/GreenClassDescriptions_cleaned.csv')
 # CSV file with all the classes to download
 
