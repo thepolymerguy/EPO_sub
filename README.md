@@ -10,7 +10,14 @@ A pseudo-ensemble model approach, featuring three separate machine learning algo
 
 **CONTENTS**
 
-. The script to implement the Trident model, including the implementation of the BSC, BiSC and GSC, can be found in the ‘**TridentModel.py**’ file. 
+We determined that the best way to implement both the BSC and the GSC was to use a sentence similarity approach, as opposed to a text classification approach, as the latter is more prone to confusion. Therefore, to begin, we trialled several open-source semantic similarity models to determine the best performing semantic model. We determined that an open-source sentence transformers (python library) model trained to map sentences/paragraphs to a 384-dimensional dense vector space worked best.
+
+This model is a fine-tuned version of the ‘MiniLM-L6-H384-uncased’ model , which itself is a 6-layer version of Wang et. Al.’s ‘MiniLM’ model . The model was fine-tuned in on dataset with 1 billion sentence pairs, including a 700+ million post-to-comment dataset by PolyAI . The model uses a contrastive learning objective. Given a sentence from the pair, the model should predict which out of a set of randomly sampled other sentences, was paired with it in the dataset. The metric used for determining likelihood of sentence pairing is cosine similarity.
+
+The model was trained on a Google TPU v3-8. It was trained over 100k steps using a batch size of 1024 (128 per TPU core). A learning rate warm up of 500 was used. The sequence length was limited to 128 tokens. The AdamW optimizer was employed with a 2e-5 learning rate. The model weights and the required configuration files (including the architecture) can be found in the ‘**Text Similarity Model**’ folder on our project’s GitHub. The file used to train the model can be found in the ‘**train.py**’ file within the same folder.
+
+
+The script to implement the Trident model, including the implementation of the BSC, BiSC and GSC, can be found in the ‘**TridentModel.py**’ file. 
 
 The script used to extract the ‘Level-0’ class code and their full associated description can be found in the ‘ClassFinder.py’ file on our project’s GitHub. The script used to clean descriptions and generate the class code embeddings can be found in the ‘**MainClassEmbeddingsGenerator.py**’. The ‘Level-0’ class code embeddings can be found in the ‘**MainClassEmbeddings.csv**’ file.
 
