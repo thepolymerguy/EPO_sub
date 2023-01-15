@@ -276,11 +276,6 @@ def predict_green(abstract_embedding, model):
 class_embeddings = pd.read_csv('/path/to/MainClassEmbeddings.csv')
 green_class_embeddings = pd.read_csv('path/to/GreenClassEmbeddings.csv')
 
-# Test abstract
-abstract = """
-Described herein are strength characteristics and biodegradation of articles produced using one or more “green” sustainable polymers and one or more carbohydrate-based polymers. A compatibilizer can optionally be included in the article. In some cases, the article can include a film, a bag, a bottle, a cap or lid therefore, a sheet, a box or other container, a plate, a cup, utensils, or the like.
-"""
-
 abstract
 
 ########## Making Predictions ##########
