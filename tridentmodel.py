@@ -158,12 +158,9 @@ def convert_saved_embeddings(embedding_string):
     embedding = torch.from_numpy(embedding)
     return embedding
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 ### Generating Class Embeddings
 
-Model_Path = '/path/to/Model_bert' ### Insert Path to MODEL DIRECTORY here
+Model_Path = '/path/to/Text Similarity Model Folder' ### Insert Path to MODEL DIRECTORY here
 def class_embbedding_generator(classes):
     """
     This function is to be used to generate and save class embeddings
@@ -182,7 +179,7 @@ def class_embbedding_generator(classes):
         class_embeddings.loc[len(class_embeddings)] = embedding_entry
 
 ### Broad Scope Classifier
-Model_Path = '/path/to/Model_bert' ### Insert Path to MODEL DIRECTORY here
+Model_Path = '/path/to/Text Similarity Model Folder' ### Insert Path to MODEL DIRECTORY here
 def broad_scope_class_predictor(class_embeddings, abstract_embedding, N=5, Sensitivity='Medium'):
     """
     Takes in pre-computed class embeddings and abstract texts, converts abstract text into
@@ -223,7 +220,7 @@ def broad_scope_class_predictor(class_embeddings, abstract_embedding, N=5, Sensi
     return predictions, HighestSimilarity, GreenLikelihood
 
 ### Green Scope Classifier
-Model_Path = '/path/to/Model_bert' ### Insert Path to MODEL DIRECTORY here
+Model_Path = '/path/to/Text Similarity Model Folder' ### Insert Path to MODEL DIRECTORY here
 def green_scope_class_predictor(green_class_embeddings, abstract_embedding, N):
     """
     Takes in pre-computed green class embeddings and abstract texts, converts abstract text into embedding, calculates cosine similarity between abstract embeddings and each green class embedding,
@@ -287,7 +284,7 @@ Described herein are strength characteristics and biodegradation of articles pro
 abstract
 
 ########## Making Predictions ##########
-Model = tf.keras.models.load_model('/path/to/densemodel') # Insert path to Dense model
+Model = tf.keras.models.load_model('/path/to/densemodel folder') # Insert path to Dense model
 
 abstract = """
 Described herein are strength characteristics and biodegradation of articles produced using one or more “green” sustainable polymers and one or more carbohydrate-based polymers. A compatibilizer can optionally be included in the article. In some cases, the article can include a film, a bag, a bottle, a cap or lid therefore, a sheet, a box or other container, a plate, a cup, utensils, or the like.
@@ -311,43 +308,3 @@ elif broad_scope_predictions[2] == 'False' and BinaryScore <= 0.5:
   print('Input text  Very Unikely to be related to a Green Plastic')
 else:
   print('Input text  Very Unikely to be related to a Green Plastic')
-
-"""
-df = pd.read_csv('/path/to/Test_Dataset.csv')
-df = df.sample(frac=1, random_state=25)
-y_true = df['GreenV'].to_numpy().flatten()
-y_true
-
-import time
-tridentValues = []
-times = []
-for abstract in df['Abstract'][0:100]:
-  start_time = time.time()
-  abstract_embedding = sentence_embedder(abstract, Model_Path)
-  Number = 10
-  broad_scope_predictions = broad_scope_class_predictor(class_embeddings, abstract_embedding, Number, Sensitivity='Medium')
-  BinaryScore = predict_green(abstract, Model)
-
-  if broad_scope_predictions[2] == 'True' and BinaryScore > 0.5:
-    print('Input Text almost certainly related to a Green Plastic')
-    green_scope_class_predictor(green_class_embeddings, abstract_embedding, Number)
-    tridentV = 1
-  elif broad_scope_predictions[2] == 'True' and BinaryScore == 0.5:
-    print('Very Likely to be a Green Plastic')
-    tridentV = 1
-    green_scope_class_predictor(green_class_embeddings, abstract_embedding, Number)
-  elif broad_scope_predictions[2] == 'False' and BinaryScore >=0.5:
-    print('Not sure if input text is related to a Green Plastic or Not. Please Review Further')
-    green_scope_class_predictor(green_class_embeddings, abstract_embedding, Number)
-    tridentV = 0
-  elif broad_scope_predictions[2] == 'False' and BinaryScore <= 0.5:
-    print('Input text  Very Unikely to be related to a Green Plastic')
-    tridentV = 0
-  else:
-    print('Input text  Very Unikely to be related to a Green Plastic')
-
-  tridentValues.append(tridentV)
-  print("--- %s seconds ---" % (time.time() - start_time))
-  times.append(time.time() - start_time)
-
-"""
