@@ -25,7 +25,7 @@ The final list of ‘Green Plastic’ class code embeddings (approx. 100) can be
 
 The scripts used to train and evaluate the BiSC can be found in the ‘**BiSC.py**’ (can also be found in ‘**BiSC.ipynb**’).
 
-The files containing the weights and architecture for the simple ‘Dense’ model BiSC is contained in the ‘**densemodel**’ folder 
+The files containing the weights and architecture for the simple ‘Dense’ model BiSC is contained in the ‘**densemodel**’ folder. 
 
 The code used to clean the dataset can be found in the ‘**DatasetCleaner.py**’ file.
 
