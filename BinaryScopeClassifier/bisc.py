@@ -247,46 +247,8 @@ plt.xticks(rotation=0, horizontalalignment="center")
 plt.title("Model performace evaluation")
 plt.ylim(0, 1)
 plt.tight_layout()
-plt.savefig('/content/drive/MyDrive/binary_model/model_comp_eval.png', dpi=300, transparent=True)
-
-"""### Testing 8 random abstracts to evaluate how well binary models work to classify patent as relating to green plastics or not."""
-
-abst1 = 'Shipping container comprises unitary sheet providing set external wall portions internal including first portion folded enclose volume v wherein surrounds arrangeable arrangement bounds least part second partitions define subvolumes subvolume optionally arranged move folding'
-gV = predict_green(abst1, model_1)
-gV = predict_green(abst1, model_2)
-
-abst2 = 'Described herein are strength characteristics and biodegradation of articles produced using one or more “green” sustainable polymers and one or more carbohydrate-based polymers. A compatibilizer can optionally be included in the article. In some cases, the article can include a film, a bag, a bottle, a cap or lid therefore, a sheet, a box or other container, a plate, a cup, utensils, or the like.'
-gV = predict_green(abst2, model_1)
-gV = predict_green(abst2, model_2)
-
-abst3 = 'A method of delivering a scalp cleansing composition to the scalp and a conditioning shampoo composition to the rest of the hair directed to: Applying a scalp cleansing composition directly onto the scalp using an applicator wherein the scalp cleansing composition comprises a sensate; Applying a conditioning shampoo composition on the length and ends of the hair, where length is defined as the hair starting below the root line at the back of the neck/base of the head and the ends are defined as the 4 cm of the hair furthest away from the scalp; wherein % increase scalp deposition is 10%.'
-gV = predict_green(abst3, model_1)
-gV = predict_green(abst3, model_2)
-
-abst4 = 'Composite blends of polyester containing plastic materials, and a starch-based polymeric material that increases the biodegradability of the polyesters of such a composite in simulated or actual marine conditions (e.g., simulated by ASTM D-6691). Enhanced rate or extent of biodegradation may also be exhibited in simulated or actual land-based disposal conditions. The starch-based polymeric materials are substantially amorphous, and are homogenously blended with the polyester plastic materials. While polyester plastics such as PBAT, PLA, PCL, and/or PBS may exhibit some biodegradability characteristics when composted and/or disposed of in landfill conditions at elevated temperatures, they exhibit limited if any biodegradability when disposed of in a marine environment. Even conventional blends of starch with such polyesters do not exhibit any significant marine biodegradability with respect to the polyester components therein. Third party testing shows the present blends exhibit substantially complete biodegradability of the entire composite under marine conditions, after about 400 days.'
-gV = predict_green(abst4, model_1)
-gV = predict_green(abst4, model_2)
-
-abst5 = 'The invention relates to a pyrolysis plant and a process for recovering (recycling) carbon fibers from carbon fiber-containing plastics, in particular from carbon fiber-reinforced plastics (CFPs or CFP materials), preferably from carbon fiber-containing and/or carbon fiber-reinforced composites (composite materials).'
-gV = predict_green(abst5, model_1)
-gV = predict_green(abst5, model_2)
-
-abst6 = 'The present invention relates to a preparation method or a processing method for fruit food, particularly to fruit with ice cream stuff and a manufacture method thereof. The fruit of the present invention maintains the original fruit flavor, taste and shape, and has the ice cream flavor. The fruit of the present invention comprises the fruit and ice cream, wherein cavities are arranged in the fruit, and the ice cream is filled in the cavities arranged in the fruit. During the processing, first, the fruit carries out the processing of cleaning and disinfecting, the cavities are made in the fruit, and the ice cream is filled in the cavities of the fruit. The present invention provides novel fruit freezing mixed food for public, and the novel fruit freezing mixed food maintains the original flavor of various kinds of fruit (such as cherries, litchi, longan (longan), loquat, apricots, plum, peaches, grape, strawberries, bananas, etc.) and melons (such as watermelons, muskmelons, chaenomeles fruit, hami melons, etc.) and has the flavor of the ice cream.'
-gV = predict_green(abst6, model_1)
-gV = predict_green(abst6, model_2)
-
-abst7 = 'GREENHOUSE GAS GRID AND TRACKING SYSTEM OF DISCLOSURE A method and computer system for reporting on a target greenhouse gas within a geographical boundary of an offset project by compiling policy parameters for the target greenhouse gas and generating a science plan for monitoring the target greenhouse gas for the target geographical boundary of the offset project, based upon the compiled policy parameters. An allometric model for the target greenhouse gas within the geographical boundary of the offset project is generated based upon the science plan of the target greenhouse gas for the geographic boundary, and a report for the target greenhouse gas within the target geographical boundary of the offset project is generated based upon the allometric model.'
-gV = predict_green(abst7, model_1)
-gV = predict_green(abst7, model_2)
-
-abst8 = "Disclosed herein are a system and method that integrate vineyard sensor data into an environment that enables analysis, historical trend analytics, spatio-temporal analytics, and weather model fusion for improved decision making from vineyard management to wine production. The integration of new sensor data from multiple soil depths with surface measurements, combined with production flow process and historical information enables new decision making capabilities. A wireless network of sensor/transmitters can be distributed to provide a 3-dimensional assessment of water movement both across the grower's field and as it moves from the surface through the root zone. The soil monitoring data stream feeds into a visualization interface that will be incorporated in software based decision aid and crop management tool that helps agricultural producers reduce costs, minimize water and nutrient applications, and better protect the environment by reducing agricultural production inputs."
-gV = predict_green(abst8, model_1)
-gV = predict_green(abst8, model_2)
-
-model_1.save_weights("/content/drive/MyDrive/binary_model/model1.h5")
-model_2.save_weights("/content/drive/MyDrive/binary_model/model2.h5")
+#plt.savefig('/content/drive/MyDrive/binary_model/model_comp_eval.png', dpi=300, transparent=True)
 
 model_1.save("/content/drive/MyDrive/binary_model/densemodel")
-
 model_2.save("/content/drive/MyDrive/binary_model/transferlearning_model.h5")
 # need to be loaded with custom_objects={"KerasLayer": hub.KerasLayer}
