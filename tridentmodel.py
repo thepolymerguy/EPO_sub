@@ -1,10 +1,10 @@
-# -*- coding: utf-8 -*-
 """
 TRIDENT MODEL IMPLEMENTATION
 
 Date: 14 January 2023
 Authors:  Egheosa Ogbomo & Amran Mohammed (The Polymer Guys)
 Description: This script combines three ML-based models to identify whether an input text is related to green plastics or not.
+    : Rename all /path/to/ -> correct path
 """
 
 pip install transformers
