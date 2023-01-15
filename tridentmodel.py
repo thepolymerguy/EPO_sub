@@ -84,7 +84,7 @@ def clean_data(input, type='Dataframe'):
                 l = [noNaN_row[-1], row]
                 cleaneddf.loc[len(cleaneddf)] = l
         cleaneddf = cleaneddf.drop_duplicates(subset=['Description'])
-        cleaneddf.to_csv('E:/Users/eeo21/Startup/CPC_Classifications_List/additionalcleanedclasses.csv', index=False)
+        cleaneddf.to_csv('/path/to/additionalcleanedclasses.csv', index=False)
         return cleaneddf
 
     elif type == 'String':
@@ -163,7 +163,7 @@ drive.mount('/content/drive')
 
 ### Generating Class Embeddings
 
-Model_Path = '/content/drive/MyDrive/EPOCodefest/Model_bert' ### Insert Path to MODEL DIRECTORY here
+Model_Path = '/path/to/Model_bert' ### Insert Path to MODEL DIRECTORY here
 def class_embbedding_generator(classes):
     """
     This function is to be used to generate and save class embeddings
