@@ -299,7 +299,7 @@ elif broad_scope_predictions[2] == 'True' and BinaryScore == 0.5:
 elif broad_scope_predictions[2] == 'False' and BinaryScore >=0.5:
   print('Not sure if input text is related to a Green Plastic or Not. Please Review Further')
   green_scope_class_predictor(green_class_embeddings, abstract_embedding, Number) 
-elif broad_scope_predictions[2] == 'False' and BinaryScore <= 0.5:
+elif broad_scope_predictions[2] == 'False' and BinaryScore < 0.5:
   print('Input text  Very Unikely to be related to a Green Plastic')
 else:
   print('Input text  Very Unikely to be related to a Green Plastic')
