@@ -51,7 +51,7 @@ def loaddata(greencsv, notgreencsv):
   
   return data_shuff
 
-data_shuff = loaddata('/content/drive/MyDrive/binary_model/GreenPatents_Dataset.csv', '/content/drive/MyDrive/binary_model/NotGreenPatents_Dataset.csv')
+data_shuff = loaddata('/path/to/GreenPatents_Dataset.csv', '/path/to/NotGreenPatents_Dataset.csv')
 data_shuff
 
 train_sent, test_sent, train_lab, test_lab = train_test_split(data_shuff["Abstract"].to_numpy(),
