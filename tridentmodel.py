@@ -182,7 +182,7 @@ def class_embbedding_generator(classes):
         class_embeddings.loc[len(class_embeddings)] = embedding_entry
 
 ### Broad Scope Classifier
-Model_Path = '/content/drive/MyDrive/EPOCodefest/Model_bert' ### Insert Path to MODEL DIRECTORY here
+Model_Path = '/path/to/Model_bert' ### Insert Path to MODEL DIRECTORY here
 def broad_scope_class_predictor(class_embeddings, abstract_embedding, N=5, Sensitivity='Medium'):
     """
     Takes in pre-computed class embeddings and abstract texts, converts abstract text into
@@ -223,7 +223,7 @@ def broad_scope_class_predictor(class_embeddings, abstract_embedding, N=5, Sensi
     return predictions, HighestSimilarity, GreenLikelihood
 
 ### Green Scope Classifier
-Model_Path = '/content/drive/MyDrive/EPOCodefest/Model_bert' ### Insert Path to MODEL DIRECTORY here
+Model_Path = '/path/to/Model_bert' ### Insert Path to MODEL DIRECTORY here
 def green_scope_class_predictor(green_class_embeddings, abstract_embedding, N):
     """
     Takes in pre-computed green class embeddings and abstract texts, converts abstract text into embedding, calculates cosine similarity between abstract embeddings and each green class embedding,
@@ -276,9 +276,10 @@ def predict_green(abstract_embedding, model):
     return gV
 
 ########## LOADING PRE-COMPUTED EMBEDDINGS ##########
-class_embeddings = pd.read_csv('/content/drive/MyDrive/EPOCodefest/MainClassEmbeddings.csv')
-green_class_embeddings = pd.read_csv('/content/drive/MyDrive/EPOCodefest/GreenClassEmbeddings.csv')
+class_embeddings = pd.read_csv('/path/to/MainClassEmbeddings.csv')
+green_class_embeddings = pd.read_csv('path/to/GreenClassEmbeddings.csv')
 
+# Test abstract
 abstract = """
 Described herein are strength characteristics and biodegradation of articles produced using one or more “green” sustainable polymers and one or more carbohydrate-based polymers. A compatibilizer can optionally be included in the article. In some cases, the article can include a film, a bag, a bottle, a cap or lid therefore, a sheet, a box or other container, a plate, a cup, utensils, or the like.
 """
@@ -286,7 +287,7 @@ Described herein are strength characteristics and biodegradation of articles pro
 abstract
 
 ########## Making Predictions ##########
-Model = tf.keras.models.load_model('/content/drive/MyDrive/EPOCodefest/binary_model/densemodel')
+Model = tf.keras.models.load_model('/path/to/densemodel') # Insert path to Dense model
 
 abstract = """
 Described herein are strength characteristics and biodegradation of articles produced using one or more “green” sustainable polymers and one or more carbohydrate-based polymers. A compatibilizer can optionally be included in the article. In some cases, the article can include a film, a bag, a bottle, a cap or lid therefore, a sheet, a box or other container, a plate, a cup, utensils, or the like.
