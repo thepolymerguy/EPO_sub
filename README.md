@@ -1,4 +1,5 @@
 THE TRIDENT PATENT CLASSIFIER
+
 A pseudo-ensemble model approach, featuring three separate machine learning algorithms working in tandem with each other to overcome the pitfalls of patent classification according to the CPC patent classification.
 
 1.	We developed a Binary-Scope patent classifier (BiSC) that is be able to determine whether input text data should broadly be classified as a ‘Green Plastic’ patent or not. To implement this, we trained a classifier using a dataset split equally between patents/literature related to ‘Green Plastics’ (as we have defined below), and literature not related to ‘Green Plastics’. The output of this classification is a ‘True’ or ‘False’ prediction of whether the input text is a ‘Green Plastic’, as well as a score, between 0 and 1, that represents the confidence of this classifier.
